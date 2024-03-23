@@ -47,6 +47,6 @@ A simple JS code to close Google form when the column sum up value over certain 
    * 選取活動類型，看你需要什麼時候執行一次函數，表單提交後才執行，可以選擇「提交表單時」
    * 儲存
   
-#大公告成
+# 大公告成
 有空再來加工有圖片的版本～
       
